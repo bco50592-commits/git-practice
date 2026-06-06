@@ -1,1 +1,4 @@
 Hello Git
+Second line git add git commit -m update file git push
+Second line
+Second line
